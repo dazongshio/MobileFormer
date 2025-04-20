@@ -1,0 +1,9 @@
+diseases/*          //忽略diseases目录
+checkpoints/*       //忽略checkpoints目录
+#angular.json    //忽略这个angular.json文件
+#log/*           //忽略log下的所有文件
+#css/*.css       //忽略css目录下的.css文件
+*.pth
+*.pth.tar
+
+diseases/yebanbings/
