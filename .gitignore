@@ -6,4 +6,4 @@ checkpoints/*       //忽略checkpoints目录
 *.pth
 *.pth.tar
 
-diseases/yebanbings/
+diseases/*/**
